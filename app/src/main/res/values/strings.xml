@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MyGridView</string>
+    <string-array name="codeName">
+        <item>Cupcake</item>
+        <item>Donut</item>
+        <item>Eclair</item>
+        <item>Froyo</item>
+        <item>Gingerbread</item>
+        <item>Honeycomb</item>
+        <item>Ice Cream Sandwich</item>
+        <item>JellyBean</item>
+        <item>Kitkat</item>
+        <item>Lollipop</item>
+    </string-array>
+    <string-array name="apiLevel">
+        <item>API LEVEL 3</item>
+        <item>API LEVEL 4</item>
+        <item>API LEVEL 5-7</item>
+        <item>API LEVEL 8</item>
+        <item>API LEVEL 9-10</item>
+        <item>API LEVEL 11-13</item>
+        <item>API LEVEL 14-15</item>
+        <item>API LEVEL 16-28</item>
+        <item>API LEVEL 19-20</item>
+        <item>API LEVEL 21-22</item>
+    </string-array>
+</resources>
